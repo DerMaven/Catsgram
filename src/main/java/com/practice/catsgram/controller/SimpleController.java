@@ -1,4 +1,4 @@
-package com.practice.cats.gram.controller;
+package com.practice.catsgram.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;

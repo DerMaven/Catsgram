@@ -1,4 +1,4 @@
-package com.practice.cats.gram;
+package com.practice.catsgram;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
